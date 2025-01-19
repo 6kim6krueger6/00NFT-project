@@ -29,7 +29,7 @@ This project is a simple NFT collection consisting of 3 unique images, deployed 
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/6kim6krueger6/00NFT-project
    cd <repository_name>
    ```
 
