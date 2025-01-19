@@ -1,7 +1,4 @@
 # 00NFT-project
-Basic NFT collection deployed on Etherium chain on OpenSea
-
-# NFT Project
 
 This project is a simple NFT collection consisting of 3 unique images, deployed to the Sepolia testnet and available on OpenSea. The project is developed using Foundry, a fast and powerful development framework for Ethereum smart contracts.
 
