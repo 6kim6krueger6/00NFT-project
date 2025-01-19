@@ -2,6 +2,8 @@
 
 This project is a simple NFT collection consisting of 3 unique images, deployed to the Sepolia testnet and available on OpenSea. The project is developed using Foundry, a fast and powerful development framework for Ethereum smart contracts.
 
+Contract Address: 0xA31cA1c5B81F560B0C415327D9641b55cb0291E4
+
 ## Project Details
 
 - **Blockchain**: Sepolia Testnet
